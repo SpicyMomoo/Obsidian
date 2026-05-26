@@ -32,3 +32,10 @@ Mettre avant le nombre de chiffre souhaité
 	:E - Pour ouvrir le tree de l'emplacement du fichier
 	:15 le - Pour ouvrir le tree afin de naviguer entre les fichiers
 	:Vsplit (le nom du fichier) - scinder l'écran en deux avec le fichier actuel et le fichier mentionné   
+
+**Pour ajouter quelque chose sur un ensemble de lignes** 
+
+	Ctrl + V 
+	Faire le nombre de ligne sur lesquelles j'ai envie d'appliquer (ex: 21j)
+	I 
+	Ensuite noter ce que l'on veut (TAB, //)
